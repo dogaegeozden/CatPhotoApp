@@ -14,7 +14,7 @@ CatPhotoApp is a web application designed to bring joy and entertainment to cat 
 
 ## Screenshots
 
-![CatPhotoApp Screenshot](https://raw.githubusercontent.com/dogaegeozden/CatPhotoApp/main/screenshots/screen_shot1.png)
+![CatPhotoApp Screenshot](https://raw.githubusercontent.com/dogaegeozden/CatPhotoApp/main/screenshots/screenshot1.png)
 
 ## License
 
