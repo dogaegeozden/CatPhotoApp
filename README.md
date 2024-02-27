@@ -16,18 +16,6 @@ CatPhotoApp is a web application designed to bring joy and entertainment to cat 
 
 ![CatPhotoApp Screenshot](https://raw.githubusercontent.com/dogaegeozden/CatPhotoApp/main/screenshots/screen_shot1.png)
 
-## Usage
-
-To get started with CatPhotoApp, simply visit our [website](https://freecatphotoapp.com) and start exploring the world of cats!
-
-## Contributing
-
-We welcome contributions from fellow cat lovers! If you'd like to contribute to CatPhotoApp, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## Support
-
-For any inquiries or support requests, please contact us at support@catphotoapp.com.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
