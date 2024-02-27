@@ -9,8 +9,8 @@ CatPhotoApp is a web application designed to bring joy and entertainment to cat 
 ## Features
 
 - **Cat Photos:** Explore a gallery of captivating cat photos that will melt your heart.
-- **Cat Lists:** Discover what cats love and hate with our curated lists.
-- **Cat Form:** Share information about your own cat and join our community of cat lovers.
+- **Cat Lists:** Discover what cats love and hate with my curated lists.
+- **Cat Form:** Share information about your own cat and join to community of cat lovers.
 
 ## Screenshots
 
